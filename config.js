@@ -38,9 +38,9 @@ module.exports = {
   //_________________________________________________________________________________________________________________________________
   STICKER_DATA: "🎯teto-𝙼𝙳;the bot whtasapp teto☘️",
   //_________________________________________________________________________________________________________________________________
-  WELCOME_MSG: process.env.WELCOME_MSG || "👋 Hello *@user* Welcome To Our Group *@gname*\n*Total Members:* @count\n*Group Description:*\n@gdesc {pp}",
+  WELCOME_MSG: process.env.WELCOME_MSG || "👋 Hello *@user* Welcome To Our Group *@gname*\n*Total Members:* @count\n*Group Description:*\n@gdesc {pp} https://sociabuzz.com/awabofficiall",
   //_________________________________________________________________________________________________________________________________
-  GOODBYE_MSG: process.env.GOODBYE_MSG || "👋 GoodBye *@user* From *@gname*\n*Total Members:* @count {pp}",
+  GOODBYE_MSG: process.env.GOODBYE_MSG || "👋 GoodBye *@user* From *@gname*\n*Total Members:* @count {pp} https://sociabuzz.com/awabofficiall",
   //_________________________________________________________________________________________________________________________________
   DATABASE_URL: DATABASE_URL,
   //_________________________________________________________________________________________________________________________________
